@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

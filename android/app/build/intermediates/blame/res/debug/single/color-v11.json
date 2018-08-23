@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

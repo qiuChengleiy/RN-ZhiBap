@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/yangu/.android/build-cache/da7b2fabc58a7bdbfc69acaa1e5f1cf891d9d64f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/yangu/Desktop/React-Native/ZBapp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/yangu/.android/build-cache/5af40676e0db989edb908dda8e75a8bde35b9d61/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

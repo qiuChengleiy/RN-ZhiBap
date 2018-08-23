@@ -1,0 +1,89 @@
+
+login
+
+
+//  密码登录
+
+{
+	'username':'',    // 这里为手机号
+	'password':'',
+}
+
+
+// 短信登录
+
+// 这里还需一个发送验证码的接口： .....
+
+{
+	'username':'',  // 手机号   验证是否存在 
+	'password':'',  // 验证码
+}
+
+
+
+//密码找回流程
+
+
+// 这里还需一个发送验证码的接口： .....
+
+第一步需要验证手机号和验证码
+
+{
+   'phoneNumber':''	  // 手机号
+   'identifyingCode': '' // 验证码
+}
+
+
+第二步 设置新密码
+
+{
+	'newPassword':''  // 新的密码   用户为上一步的手机号
+}
+
+
+
+//  注册流程
+
+这里还需一个发送验证码的接口： .....
+
+
+// 注册接口
+
+{
+	'username':'',   // 用户手机号
+	'password':'',    // 用户设置的密码
+	'identifyingCode':''   //  验证码
+}
+
+
+
+// 以下是用户需要上传的数据  注册成功后会上传
+{
+	'ImageObj': {    // 用户头像
+	     'data': '',   // 文件数据  
+	     'file': ''   
+	    // 文件位置例如：/Users/qiuchenglei/Library/Developer/CoreSimulator/Application/972B74A0-3768-4B5B-B612-94C33F4C0890/Documents/images/13E43E23-790D-4F42-A259-70914C0EEE2F.jpg"
+	    //安卓显示为: file://.......   
+	},
+	'location':'',  // 用户位置
+    'userInfo': {
+    	'IDnumber':'',   // 用户身份证号码
+    	'nickName':'',  // 用户昵称
+    	'username':'',  // 用户真实姓名
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
